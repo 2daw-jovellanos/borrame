@@ -1,6 +1,6 @@
 # borrame
 Fenomenal
-```
+```plantuml
 @startuml
 skinparam classAttributeIconSize 0 
 abstract class Articulo <<abstract>>{
